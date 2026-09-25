@@ -1,14 +1,10 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Carl-William DJEGUEMA
+# 👋 Salut, je suis Carl-William DJEGUEMA
 
 ###  Software Engineering Student @ IAI-TOGO & Founder @ The Great Corporation
 
 ---
-
-### 🌟 Découvrez-moi
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&logo=github&logoColor=white)](https://carlwilliamdgm.github.io/portfolio/)
 
 ---
 
@@ -34,6 +30,12 @@
 🎓 **Étudiant en Génie Logiciel - IAI-TOGO**
 
 💼 **Fondateur - The Great Corporation (TGC)**
+
+---
+
+### 🌟 Découvrez-moi en détail
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&logo=github&logoColor=white)](https://carlwilliamdgm.github.io/portfolio/)
 
 ---
 
